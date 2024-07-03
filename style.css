@@ -17,6 +17,7 @@ body{
 .cabecalho-imagem{
     width: 30%;
 }
+    
 
 .cabecalho-lista-item{
     display: inline-block;
@@ -66,7 +67,7 @@ body{
 }
 .estudantes-todos { 
     display: grid;
-    grid-template-columns: 20% 20% 20% 20% 20% ;
+    grid-template-columns: 5% 30% 30% 30% 5% ;
 }
 .rodape{
     background-color: black;
@@ -76,3 +77,22 @@ body{
     height: 60px;
     padding: 12px 0;
 }
+    .praga-imagem{
+        width: 80%;  
+    }
+.clima-imagem{
+    width: 100%;
+}
+.mosca-imagem{
+
+    width: 90%;
+}
+.stonks-imagem{
+    width: 80%;
+}
+
+.maodeobra-imagem{
+    width: 95%;
+}
+
+
